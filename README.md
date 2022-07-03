@@ -1,7 +1,8 @@
--Medlytics is a responsive web app for analytics based Healthcare managemet.Major modules include homescreen, services,technology, testimonial, etc.
+-KrazyLatino is a landing page for responsive restaurant Application. Major modules inlude deal, menu, testimonials. etc
 
--project page:https://kamalrossi.github.io/medlytics/
 
--Keywords: ReactJS, JSX, CSS, HTML5
+-project page:https://kamalrossi.github.io/krazylatino
+
+-Keywords: ReactJS,HTML, CSS, FoodTech
 
 -source code is available upon request (rossikamal@gmail.com)
