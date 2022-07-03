@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/krazylatino/static/css/main.95c8585e.chunk.css",
+    "main.js": "/krazylatino/static/js/main.cdee935b.chunk.js",
+    "main.js.map": "/krazylatino/static/js/main.cdee935b.chunk.js.map",
+    "runtime-main.js": "/krazylatino/static/js/runtime-main.1f8ee62a.js",
+    "runtime-main.js.map": "/krazylatino/static/js/runtime-main.1f8ee62a.js.map",
+    "static/css/2.31ff0196.chunk.css": "/krazylatino/static/css/2.31ff0196.chunk.css",
+    "static/js/2.b2d73067.chunk.js": "/krazylatino/static/js/2.b2d73067.chunk.js",
+    "static/js/2.b2d73067.chunk.js.map": "/krazylatino/static/js/2.b2d73067.chunk.js.map",
+    "static/js/3.4f2bb1c2.chunk.js": "/krazylatino/static/js/3.4f2bb1c2.chunk.js",
+    "static/js/3.4f2bb1c2.chunk.js.map": "/krazylatino/static/js/3.4f2bb1c2.chunk.js.map",
+    "index.html": "/krazylatino/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/krazylatino/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.95c8585e.chunk.css.map": "/krazylatino/static/css/main.95c8585e.chunk.css.map",
+    "static/js/2.b2d73067.chunk.js.LICENSE.txt": "/krazylatino/static/js/2.b2d73067.chunk.js.LICENSE.txt",
+    "static/media/KrazyLatinoDeals.349dd6b2.png": "/krazylatino/static/media/KrazyLatinoDeals.349dd6b2.png",
+    "static/media/KrazyLatinoMenu.9bcf1835.png": "/krazylatino/static/media/KrazyLatinoMenu.9bcf1835.png",
+    "static/media/KrazyLatinoReservation.a9765efa.png": "/krazylatino/static/media/KrazyLatinoReservation.a9765efa.png",
+    "static/media/krazylatino1.fa692bf1.png": "/krazylatino/static/media/krazylatino1.fa692bf1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8ee62a.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.b2d73067.chunk.js",
+    "static/css/main.95c8585e.chunk.css",
+    "static/js/main.cdee935b.chunk.js"
+  ]
+}
